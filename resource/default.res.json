@@ -1,0 +1,145 @@
+{
+	"groups": [
+		{
+			"keys": "aircraft_png,aircraftBullet_png,bg_jpg,bgGrey_png,boss_png,boss_blood1_png,boss_blood2_png,bossBullet_png,buff_blood_png,enemyBullet_png,game-over_png,hp_png,restart_png,resultBg_png,score_png,score_title_png,start_png,title_png,fruit_1_png,fruit_2_png,fruit_3_png,boom_png,boom_json,btn_replay_png,btn_replay1_png,btn_start_png,btn_start1_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "aircraft_png",
+			"type": "image",
+			"url": "assets/aircraft.png"
+		},
+		{
+			"name": "aircraftBullet_png",
+			"type": "image",
+			"url": "assets/aircraftBullet.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "bgGrey_png",
+			"type": "image",
+			"url": "assets/bgGrey.png"
+		},
+		{
+			"name": "boss_png",
+			"type": "image",
+			"url": "assets/boss.png"
+		},
+		{
+			"name": "boss_blood1_png",
+			"type": "image",
+			"url": "assets/boss_blood1.png"
+		},
+		{
+			"name": "boss_blood2_png",
+			"type": "image",
+			"url": "assets/boss_blood2.png"
+		},
+		{
+			"name": "bossBullet_png",
+			"type": "image",
+			"url": "assets/bossBullet.png"
+		},
+		{
+			"name": "buff_blood_png",
+			"type": "image",
+			"url": "assets/buff_blood.png"
+		},
+		{
+			"name": "enemyBullet_png",
+			"type": "image",
+			"url": "assets/enemyBullet.png"
+		},
+		{
+			"name": "game-over_png",
+			"type": "image",
+			"url": "assets/game-over.png"
+		},
+		{
+			"name": "hp_png",
+			"type": "image",
+			"url": "assets/hp.png"
+		},
+		{
+			"name": "restart_png",
+			"type": "image",
+			"url": "assets/restart.png"
+		},
+		{
+			"name": "resultBg_png",
+			"type": "image",
+			"url": "assets/resultBg.png"
+		},
+		{
+			"name": "score_png",
+			"type": "image",
+			"url": "assets/score.png"
+		},
+		{
+			"name": "score_title_png",
+			"type": "image",
+			"url": "assets/score_title.png"
+		},
+		{
+			"name": "start_png",
+			"type": "image",
+			"url": "assets/start.png"
+		},
+		{
+			"name": "title_png",
+			"type": "image",
+			"url": "assets/title.png"
+		},
+		{
+			"name": "fruit_1_png",
+			"type": "image",
+			"url": "assets/fruit_1.png"
+		},
+		{
+			"name": "fruit_2_png",
+			"type": "image",
+			"url": "assets/fruit_2.png"
+		},
+		{
+			"name": "fruit_3_png",
+			"type": "image",
+			"url": "assets/fruit_3.png"
+		},
+		{
+			"name": "boom_png",
+			"type": "image",
+			"url": "assets/boom.png"
+		},
+		{
+			"name": "boom_json",
+			"type": "json",
+			"url": "assets/boom.json"
+		},
+		{
+			"name": "btn_replay_png",
+			"type": "image",
+			"url": "assets/btn_replay.png"
+		},
+		{
+			"name": "btn_replay1_png",
+			"type": "image",
+			"url": "assets/btn_replay1.png"
+		},
+		{
+			"name": "btn_start_png",
+			"type": "image",
+			"url": "assets/btn_start.png"
+		},
+		{
+			"name": "btn_start1_png",
+			"type": "image",
+			"url": "assets/btn_start1.png"
+		}
+	]
+}

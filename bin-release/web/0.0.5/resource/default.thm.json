@@ -1,0 +1,10 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skins/AirCraft.exml",
+		"resource/skins/GameSkin.exml",
+		"resource/skins/StartSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

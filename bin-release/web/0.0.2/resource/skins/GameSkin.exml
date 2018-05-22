@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Group id="gp_fruit_bg" width="750" height="1334" x="0" y="0">
+		<e:Image source="bg_jpg" scaleX="1" scaleY="1" anchorOffsetY="0" left="0" right="0" height="1125" bottom="0"/>
+		<e:Image source="bg_jpg" scaleX="1" scaleY="1" anchorOffsetY="0" left="0" right="0" height="1125" y="-916"/>
+		<e:Image source="bg_jpg" scaleX="1" scaleY="1" anchorOffsetY="0" left="0" right="0" height="1125" y="-2041"/>
+	</e:Group>
+	<e:Group id="gp_fruit" width="750" height="1334" y="0" x="0">
+	</e:Group>
+	<ns1:Aircraft id="com_aircreft" width="160" height="140" y="1127.52" skinName="AirCraft" x="295"/>
+	<e:Label id="lb_score" text="90000" x="42" y="33" size="48" textColor="0xffffff" bold="true"/>
+	<e:Group id="gp_gameover" left="0" right="0" top="0" bottom="0" locked="true">
+		<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.7"/>
+		<e:Label text="游戏结束" y="336" horizontalCenter="0" size="96"/>
+		<e:Label id="lb_overscore" text="999999" y="542" size="96" horizontalCenter="0"/>
+		<e:Button id="btn_restart" label="" y="963.51" anchorOffsetX="0" width="460" anchorOffsetY="0" height="95" horizontalCenter="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_replay_png" source.down="btn_replay1_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="btn_mainmenu" label="" y="1102.52" anchorOffsetX="0" width="460" anchorOffsetY="0" height="95" horizontalCenter="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_start_png" source.down="btn_start1_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+</e:Skin>

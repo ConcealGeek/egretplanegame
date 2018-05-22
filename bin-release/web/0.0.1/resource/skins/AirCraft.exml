@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AirCraft" width="160" height="140" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="aircraft_png" top="0" bottom="0" left="0" right="0"/>
+</e:Skin>
